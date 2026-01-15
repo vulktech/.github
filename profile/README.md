@@ -8,13 +8,16 @@ We build real products — no endless roadmaps, just shipping.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🍌 nano-banana | AI image generator | Coming soon |
-| 🎾 tennis-club | Club management app | Coming soon |
+| 🍌 Nanana | AI-powered social media content generator | Coming soon |
+| 🎾 [Social Tennis Club](https://socialtennisclub.com) | Club management app | In progress |
 | 🏠 [Kazend](https://kazend.com) | Real estate tools | In progress |
 
-## Tech Stack
+## Client Work
 
-`.NET` · `Vue` · `PostgreSQL` · `Tailwind` · `Railway`
+| Project | Description |
+|---------|-------------|
+| [KAB Marble Granite](https://github.com/vulktech/kab-marble-granite-website) | Business website |
+| [Wired Different](https://github.com/vulktech/wired-different-website) | Business website |
 
 ---
 
