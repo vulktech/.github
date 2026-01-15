@@ -10,7 +10,7 @@ We build real products — no endless roadmaps, just shipping.
 |---------|-------------|--------|
 | 🍌 Nanana | AI-powered social media content generator | Coming soon |
 | 🎾 [Social Tennis Club](https://socialtennisclub.com) | Club management app | In progress |
-| 🏠 [Kazend](https://kazend.com) | Real estate tools | In progress |
+| 🏠 [Kazend](https://kazend.com) | Client management platform for realtors | In progress |
 
 ## Client Work
 
